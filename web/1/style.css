@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Oswald';
+    text-align: center;
+}
+
+header {
+    background-color: black;
+}
+
+.move {
+    font-size: 20px;
+    font-family: 'Oswald';
+    display: flex;
+    height: 70px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a {
+    color:#993b00;
+    text-decoration:none
+}
+    
+    
+a:visited {
+    color:#666666;
+    text-decoration:none
+}
+    
+a:hover {
+    color:#993b00;
+    text-decoration: underline
+    
+}
+
+.zag {
+    color: #993b00;
+    font-family: 'Oswald';
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: 'Oswald';
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+.books {
+    font-family: 'Oswald';
+    font-size: 20px;
+}
+
+.iimg {
+    height: 600px;
+    width: 498px;
+}
+
+.img {
+    width: 1500px;
+}
+
+.myfoot {
+    font-size: 20px;
+    font-family: 'Oswald';
+    display: flex;
+    height: 70px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+table, th, td {
+    font-family: 'Oswald';
+    font-size: 18px;
+    border: 1px solid #993b00;
+    text-align: center;
+    margin: 0 auto;
+    color: #ffffff;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.hr {
+    margin-top: 15px;
+    border-color: #993b00;
+}
